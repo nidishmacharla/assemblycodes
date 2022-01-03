@@ -3,4 +3,4 @@
 # count number of clear bits in acclumalator data
 # swapping r0 and r1 by using xch assembly directive
 # swapping lower nibbles b register with lower nibble r0
-# 2's coomplement on scrach pad area
+# 2's complement on scrach pad area
