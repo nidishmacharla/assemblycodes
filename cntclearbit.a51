@@ -8,6 +8,6 @@ cseg at 0
 	inc r7 ; acts a cnt 
 	skip:
 	djnz r0,loop ; djnz means decrement and jump if not zero
-	end
+	end; codesize=10
 	
 	
