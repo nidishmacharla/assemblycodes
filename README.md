@@ -1,4 +1,3 @@
-# assemblycodes
 8051 mc assembly language codes from vector class notes
 /*questions of class notes*/
 count number of clear bits in acclumalator data
