@@ -1,3 +1,4 @@
+/* to swap lower nibble of b register with lower nibble r0*/
 cseg at 0
 	mov r0,#0x12; r0=0x12 immediate value
 	mov b,#0x78; b is sfr
