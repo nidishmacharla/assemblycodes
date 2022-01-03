@@ -5,4 +5,4 @@ cseg at 0
 	mov a,r1;now a=0x78
 	xch a,r0; xch is assembly directive to exchange values now a=0x12,r0=0x78 
 	mov r1,a; now r1=0x12 values have changed r0=0x78
-	end
+	end;codesize=7
