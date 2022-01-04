@@ -1,4 +1,4 @@
-/*swapping using arthemetic */
+/*swapping using arthemetic (task) */
 cseg at 0
 	mov r0,#0x12;r0=0x12
 	mov r1,#0x78;r1=0x78
