@@ -8,8 +8,5 @@ cseg at 0
 	xchd a,@r0; now a=0x28 and r0=0x71
 	swap a; again swapping now a=0x82
 	mov 0x06,a;now r6=0x82(answer)
-	/*clr a; clearing a now a=0
-	mov a,r0;now a=0x71
-	mov 0x07,a; now r7=0x71(answer)*/
-	end ;codesize=16
+	end ;codesize=12
 	
