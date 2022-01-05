@@ -7,3 +7,4 @@
 # swapping  r0 and r1 by using arthemetic (@Task problem)
 # adding three 8-bit numbers and stored the results in internal ram
 # exchange higher nibble r6 to lower nibble r7 register (@Task problem)
+# subtract 16-bit number and store it in internal ram (@Task problem)
